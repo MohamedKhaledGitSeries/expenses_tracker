@@ -44,6 +44,9 @@ expenses_tracker/
 ├── ExpensesCalculator.py
 ├── expenses.json
 ├── settings.json
+├── screenshots/
+│   ├── expense-tracker-main-menu.png
+│   └── expense-tracker-expenses-view.png
 ├── README.md
 ├── .gitignore
 └── LICENSE
