@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Weekly groceries",
+        "amount": 85.5,
+        "category": "Food"
+    },
+    {
+        "name": "Coffee and breakfast",
+        "amount": 12.75,
+        "category": "Food"
+    },
+    {
+        "name": "Monthly bus pass",
+        "amount": 30.0,
+        "category": "Transportation"
+    },
+    {
+        "name": "Taxi ride",
+        "amount": 18.5,
+        "category": "Transportation"
+    },
+    {
+        "name": "Internet subscription",
+        "amount": 25.0,
+        "category": "Bills"
+    },
+    {
+        "name": "Electricity bill",
+        "amount": 42.8,
+        "category": "Bills"
+    },
+    {
+        "name": "Python programming book",
+        "amount": 35.0,
+        "category": "Education"
+    },
+    {
+        "name": "Online programming course",
+        "amount": 49.99,
+        "category": "Education"
+    },
+    {
+        "name": "Gym membership",
+        "amount": 40.0,
+        "category": "Health & Fitness"
+    },
+    {
+        "name": "Movie ticket",
+        "amount": 15.0,
+        "category": "Entertainment"
+    },
+    {
+        "name": "T-shirt",
+        "amount": 28.0,
+        "category": "Shopping"
+    },
+    {
+        "name": "Notebook and pens",
+        "amount": 9.5,
+        "category": "Education"
+    }
+]
