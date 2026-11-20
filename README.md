@@ -2,6 +2,16 @@
 
 A simple command-line expense tracking application built with Python. It allows users to record, manage, search, and analyze their expenses while storing data locally in JSON files.
 
+## Application Preview
+
+### Main Menu
+
+![Expense Tracker Main Menu](screenshots/expense-tracker-main-menu.png)
+
+### Expenses View
+
+![Expense Tracker Expenses View](screenshots/expense-tracker-expenses-view.png)
+
 ## Features
 
 - **Add Expenses:** Record expenses with a name, amount, and category.
